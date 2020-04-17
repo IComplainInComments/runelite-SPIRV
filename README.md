@@ -5,7 +5,7 @@ Toolchain: https://github.com/google/shaderc
 
 Toolchain documentation: https://github.com/google/shaderc/tree/master/glslc
 
-~~Structure of the Code~~
+--Structure of the Code--
 Scale: Holds the coding for the UI Scaling of the models.
 
 Uneeded: Files that held code for the Shader units; the code being small functions from things like measuring distance, color conversions, camera angles, etc.
